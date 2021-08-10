@@ -3,7 +3,7 @@
 A project based on learning differnt concept of flutter.
 
 Include:
- - Properties of TabController with Srollability
+ - Properties of TabController with Scrollability
  - Horizontly scroll tabbar
  - Horizontly scroll between screens
  - Hide AppBar when scrolling vertically
