@@ -6,5 +6,5 @@ Include:
  - Properties of TabController with Scrollability
  - Horizontly scroll tabbar
  - Horizontly scroll between screens
- - Hide AppBar when scrolling vertically
+ - Hide AppBar with vertically scroll
 
