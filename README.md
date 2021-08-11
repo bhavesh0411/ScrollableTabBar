@@ -1,4 +1,4 @@
-# ScrollableTabBarController (Learning 4- sorta_learning_series)
+# ScrollableTabBarController (sorta_learning_series - Learning 4)
 
 A project based on learning differnt concept of flutter.
 
